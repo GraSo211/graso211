@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://graso.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.graso.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://graso.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.graso.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/santiago-gramaglia-sola/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Gramaglia%20Sola-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:santiagogramagliasola1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagogramagliasola1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
