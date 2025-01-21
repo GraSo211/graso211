@@ -47,7 +47,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://santi-gramagliasola.vercel.app/api/spotify)](https://open.spotify.com/user/santi-gramagliasola)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/santi-gramagliasola)
 
 ---
 
