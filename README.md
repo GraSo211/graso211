@@ -45,13 +45,14 @@
 <a href="mailto:santiagogramagliasola1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagogramagliasola1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/santi-gramagliasola)
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### 🗿
 ``````
