@@ -1,8 +1,11 @@
 ![ViewCount](https://views.whatilearened.today/views/github/graso211/graso211.svg?cache=remove)
 
-<img src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" />
+
 
 <h2> Hey there! I'm Santiago 👋.</h2>
+
+<img src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" />
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
