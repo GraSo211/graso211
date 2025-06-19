@@ -2,7 +2,7 @@
 
 
 
-<h2> Hey there! I'm Santiago 👋.</h2>
+<h2> Hey there! I'm Santiago 👋</h2>
 
 <img src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" />
 
