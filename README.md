@@ -4,9 +4,17 @@
 
 <h2> Hey there! I'm Santiago 👋</h2>
 
-<img src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" />
+<p align="center"><img align="center" src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" /></p>
 
+## 🐍 A Snake Eating My Contributions Graph
 
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GraSo211/GraSo211/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GraSo211/GraSo211/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GraSo211/GraSo211/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -15,29 +23,45 @@
 - 🌱 &nbsp; Learning more about Spring Framework and .Net.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+<h3>&emsp;&emsp;🎨| FrontEnd</h3>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,tailwind,js,ts&perline=8" /></p>
+<h3>&emsp;&emsp;🧠| Backend</h3>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,cs,py,nodejs,spring,dotnet,express,postgres&perline=8" /></p>
+<h3>&emsp;&emsp;🧰| Tools</h3>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=docker,discord,vscode,postman&perline=8" /></p>
 <br/>
 
-<a href="https://github.com/GraSo211">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GraSo211&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraSo211&theme=buefy&layout=compact" />
-</a>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GraSo211&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GraSo211&theme=dark" alt="GitHub Streak" /></a>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GraSo211&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=GraSo211&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>        
+<!--- stats (end) -->
 
 <br/>
 
