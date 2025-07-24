@@ -3,7 +3,7 @@
 
 
 <h2> Hey there! I'm Santiago 👋</h2>
-<h2> Visita mi pagina web! https://www.graso.dev/ </h2>
+<h3> Visita mi pagina web! https://www.graso.dev/ </h3>
 <p align="center"><img align="center" src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" /></p>
 
 ## 🐍 A Snake Eating My Contributions Graph
