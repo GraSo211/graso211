@@ -3,7 +3,7 @@
 
 
 <h2> Hey there! I'm Santiago 👋</h2>
-<h3> Visita mi pagina web! https://www.graso.dev/ </h3>
+<h3> Visit my web page! https://www.graso.dev/ </h3>
 
 ---
 
