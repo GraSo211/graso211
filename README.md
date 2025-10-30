@@ -30,7 +30,7 @@
 <h3>&emsp;&emsp;🎨| FrontEnd</h3>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,tailwind,js,ts&perline=8" /></p>
 <h3>&emsp;&emsp;🧠| Backend</h3>
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,cs,py,nodejs,spring,dotnet,express,postgres&perline=8" /></p>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,cs,py,nodejs,spring,express,postgres&perline=8" /></p>
 <h3>&emsp;&emsp;🧰| Tools</h3>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=docker,discord,vscode,postman&perline=8" /></p>
 <br/>
