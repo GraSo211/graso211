@@ -24,7 +24,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Systems Engineering at Universidad Tecnologica Nacional.
 - 💼 &nbsp; Working as a {Empty 😢}.
-- 🌱 &nbsp; Learning more about Spring Framework and .Net.
+- 🌱 &nbsp; Learning more about Spring Framework.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h3>&emsp;&emsp;🎨| FrontEnd</h3>
