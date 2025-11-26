@@ -2,15 +2,15 @@
 
 
 
-<h2> Hey there! I'm Santiago 👋</h2>
-<h3> Visit my web page! https://www.graso.dev/ </h3>
+<h2> Hola! Soy Santiago 👋</h2>
+<h3> Te recomiendo visitar mi pagina: https://www.graso.dev/ </h3>
 
 ---
 
 <br/>
 <p align="center"><img align="center" src="https://github.com/GraSo211/graso211/blob/main/images/hellothere.gif" /></p>
 
-## 🐍 A Snake Eating My Contributions Graph
+## 🐍 Serpiente comiendose mis contribuciones en GitHub
 
 <p align="center">
 	<picture>
@@ -21,17 +21,17 @@
 </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Systems Engineering at Universidad Tecnologica Nacional.
-- 💼 &nbsp; Working as a {Empty 😢}.
-- 🌱 &nbsp; Learning more about Spring Framework.
+- 🤔 &nbsp; Aprendiendo constantemente nuevas tecnologias y metodologias.
+- 🎓 &nbsp; Estudiando Ingenieria en Sistemas en la Universidad Tecnologica Nacional.
+- 💼 &nbsp; Trabajando en {nada 😢}.
+- 🌱 &nbsp; Actualmente centrando mi aprendizaje en SpringBoot.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <h3>&emsp;&emsp;🎨| FrontEnd</h3>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=html,css,react,nextjs,astro,tailwind,js,ts&perline=8" /></p>
 <h3>&emsp;&emsp;🧠| Backend</h3>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=java,cs,py,nodejs,spring,express,postgres&perline=8" /></p>
-<h3>&emsp;&emsp;🧰| Tools</h3>
+<h3>&emsp;&emsp;🧰| Herramientas</h3>
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=docker,discord,vscode,postman&perline=8" /></p>
 <br/>
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contactame!</h3>
 
 <p align="center">
 <a href="https://graso.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.graso.dev-blue?style=flat-square&logo=google-chrome"></a>
