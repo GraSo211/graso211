@@ -50,7 +50,7 @@
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=GraSo211&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9"/>
         <br/><br/>
-        <img src="https://streak-stats.demolab.com?user=GraSo211&hide_border=true&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&locale=es"/>
+        <img src="https://streak-stats.demolab.com?user=GraSo211&hide_border=true&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&locale=es&text_color=c9d1d9"/>
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraSo211&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=qml"/>
