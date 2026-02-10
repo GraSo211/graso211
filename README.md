@@ -52,7 +52,7 @@ Proyecto **e-commerce** desarrollado como aplicación full-stack, enfocado en di
 - API REST para gestión de productos, usuarios y pedidos
 - Separación clara entre capas de aplicación
 
-🔗 Sitio: https://anitrack-frontend.vercel.app/  ](https://renacer-frontend.vercel.app/
+🔗 Sitio: https://renacer-frontend.vercel.app/
 
 
 ---
