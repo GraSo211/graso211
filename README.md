@@ -43,12 +43,20 @@
 </p>
 
 ## 📊 Stats
-<p align="center"><img src="https://github-readme-stats-xi-livid-44.vercel.app/api?username=GraSo211&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=GraSo211&hide_border=true&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text_color=ffffff&locale=es" /></p>
-
-<p align="center"><img src="https://github-readme-stats-xi-livid-44.vercel.app/api/top-langs/?username=GraSo211&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=ffffff&langs_count=10&hide=qml" /></p>
-
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-xi-livid-44.vercel.app/api?username=GraSo211&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=ffffff" />
+        <br/><br/>
+        <img src="https://streak-stats.demolab.com?user=GraSo211&hide_border=true&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&text_color=ffffff&locale=es" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-xi-livid-44.vercel.app/api/top-langs/?username=GraSo211&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=ffffff&langs_count=10&hide=qml" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
