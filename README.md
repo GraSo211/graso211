@@ -39,7 +39,7 @@ Plataforma web para seguimiento de anime, desarrollada con una arquitectura full
 - Arquitectura **Hexagonal** modular y escalable
   
     
-🔗 Sitio: https://anitrack-frontend.vercel.app/  
+🔗 Sitio: https://anitrack.online/  
 
 ---
 
