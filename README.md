@@ -5,7 +5,7 @@
 Backend Developer | Spring Boot | Frontend Developer | NextJs | Estudiante UTN
 </h3>
 <h4 align="center">
-Te invito a visitar mi sitio web: <a href="https://www.graso.dev/">www.graso.dev</a>
+Te invito a visitar mi sitio web: <a href="https://www.graso.site/">www.graso.site</a>
 </h4>
 
 <br/>
@@ -106,8 +106,8 @@ Proyecto **e-commerce** desarrollado como aplicación full-stack, enfocado en di
   <a href="https://www.linkedin.com/in/santiago-gramaglia-sola/">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Gramaglia%20Sola-blue?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="https://graso.dev/">
-    <img src="https://img.shields.io/badge/Website-www.graso.dev-blue?style=flat-square&logo=google-chrome"/>
+  <a href="https://graso.site/">
+    <img src="https://img.shields.io/badge/Website-www.graso.site-blue?style=flat-square&logo=google-chrome"/>
   </a>
   <a href="mailto:santiagogramagliasola1@gmail.com">
     <img src="https://img.shields.io/badge/Email-santiagogramagliasola1@gmail.com-blue?style=flat-square&logo=gmail"/>
