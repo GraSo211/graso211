@@ -5,7 +5,7 @@
 Backend Developer | Spring Boot | Frontend Developer | NextJs | Estudiante UTN
 </h3>
 <h4 align="center">
-Te invito a visitar mi sitio web: <a href="https://www.graso.site/">www.graso.site</a>
+<a href="https://www.graso.site/">www.graso.site</a>
 </h4>
 
 <br/>
